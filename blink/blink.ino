@@ -19,7 +19,7 @@
   modified 8 Sep 2016
   by Colby Newman
 */
-#define LED_BUILTIN 22
+#define LED_BUILTIN 19
 
 // the setup function runs once when you press reset or power the board
 void setup() {
